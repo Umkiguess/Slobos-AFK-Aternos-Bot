@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "SANCTUARIUM2BOOGALO.aternos.me:59464",
+    "ip": "SANCTUARIUM2BOOGALO.aternos.me",
     "port": 59464,
-    "version": "",
+    "version": "26.2",
     "try-creative": false
   },
   "position": {
